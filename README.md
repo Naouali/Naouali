@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**Naouali/Naouali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — I’m a passionate software developer with experience in Python, open-source tools, and data-driven projects.
 
-Here are some ideas to get you started:
+🔭 I’m currently focusing on building Python libraries, automation tools, and exploring new tech like APIs, finance data fetchers, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 **Software Developer** with a knack for clean, practical, and efficient code  
+- 🐍 Python enthusiast — building reusable packages and scripts  
+- 🌱 Learning new frameworks and practices every day  
+- 📌 Active contributor to open-source projects
+
+---
+
+## 📦 Featured Projects
+
+### 🛠️ PyBVMT  
+A Python package that lets you **fetch stock market data** from the Tunisian Stock Exchange easily.  
