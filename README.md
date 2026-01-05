@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Nabil!
 
 Welcome to my GitHub profile — I’m a passionate software developer with experience in Python, open-source tools, and data-driven projects.
 
